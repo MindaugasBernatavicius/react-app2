@@ -1,0 +1,22 @@
+/* Greeter.css */
+input {
+	display: block;
+	color: salmon;
+}
+
+.btn {
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn:hover {
+	background-color: grey;
+}
+
+.container {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
